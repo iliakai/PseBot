@@ -1,1 +1,1 @@
-web: java -jar target/PseBot-1.01.jar
+web: java -cp target/PseBot-1.01.jar src/main/java/PseBot.java
