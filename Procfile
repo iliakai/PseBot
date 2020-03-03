@@ -1,1 +1,1 @@
-web: java -jar PseBot-1.01.jar
+worker: java -jar PseBot-1.01.jar
